@@ -3,7 +3,7 @@ Collection of my mods for 27.11 and how to use them because people are gatekeepi
 
 
 ## HOW TO MOUNT MODS:
-1. Download the prepatched [exe](https://github.com/gavbowersdomain/27.11-Mods/tree/master/Mods/PrepatchedEXE/FortniteClient-Win64-Shipping.exe) and place it `Fortnite\FortniteGame\Binaries\Win64`
+1. Download the prepatched [exe](https://drive.google.com/file/d/1i9GfLF9GSczymO986tUUYJCuuRKIi0CK/view?usp=drive_link) and place it `Fortnite\FortniteGame\Binaries\Win64`
 
 2. Place your desired mods in `\Fortnite\FortniteGame\Content\Paks`
 >Be sure to include the each pak/utoc/ucas/sig file
