@@ -1,0 +1,84 @@
+{
+	"floatCurve":
+	{
+		"keys": [
+			{
+				"interpMode": "RCIM_Cubic",
+				"tangentMode": "RCTM_User",
+				"tangentWeightMode": "RCTWM_WeightedBoth",
+				"time": 0,
+				"value": 1,
+				"arriveTangent": 0.065850570797920227,
+				"arriveTangentWeight": 0.087724819779396057,
+				"leaveTangent": 0.065850570797920227,
+				"leaveTangentWeight": 0.087724819779396057
+			},
+			{
+				"interpMode": "RCIM_Cubic",
+				"tangentMode": "RCTM_User",
+				"tangentWeightMode": "RCTWM_WeightedBoth",
+				"time": 0.30000001192092896,
+				"value": 0.019999999552965164,
+				"arriveTangent": 0.13053932785987854,
+				"arriveTangentWeight": 0.10344961285591125,
+				"leaveTangent": 0.13053932785987854,
+				"leaveTangentWeight": 0.10344961285591125
+			},
+			{
+				"interpMode": "RCIM_Cubic",
+				"tangentMode": "RCTM_User",
+				"tangentWeightMode": "RCTWM_WeightedBoth",
+				"time": 1.2000000476837158,
+				"value": 0.039999999105930328,
+				"arriveTangent": 0.020416369661688805,
+				"arriveTangentWeight": 0.38126131892204285,
+				"leaveTangent": 0.020416369661688805,
+				"leaveTangentWeight": 0.38126131892204285
+			},
+			{
+				"interpMode": "RCIM_Cubic",
+				"tangentMode": "RCTM_User",
+				"tangentWeightMode": "RCTWM_WeightedBoth",
+				"time": 2,
+				"value": 0.29999998211860657,
+				"arriveTangent": 4.7801065444946289,
+				"arriveTangentWeight": 0.27628472447395325,
+				"leaveTangent": 4.7801065444946289,
+				"leaveTangentWeight": 0.27628472447395325
+			},
+			{
+				"interpMode": "RCIM_Cubic",
+				"tangentMode": "RCTM_User",
+				"tangentWeightMode": "RCTWM_WeightedBoth",
+				"time": 2.0999999046325684,
+				"value": 0.75,
+				"arriveTangent": 1.5734488964080811,
+				"arriveTangentWeight": 0.066303089261054993,
+				"leaveTangent": 1.5734488964080811,
+				"leaveTangentWeight": 0.066303089261054993
+			},
+			{
+				"interpMode": "RCIM_Cubic",
+				"tangentMode": "RCTM_User",
+				"tangentWeightMode": "RCTWM_WeightedBoth",
+				"time": 3,
+				"value": 1,
+				"arriveTangent": 0.0031013726256787777,
+				"arriveTangentWeight": 0.84718072414398193,
+				"leaveTangent": 0.0031013726256787777,
+				"leaveTangentWeight": 0.84718072414398193
+			}
+		],
+		"defaultValue": 3.4028234663852886e+38,
+		"preInfinityExtrap": "RCCE_Constant",
+		"postInfinityExtrap": "RCCE_Constant"
+	},
+	"bIsEventCurve": false,
+	"assetImportData":
+	{
+		"_ClassName": "/Script/Engine.AssetImportData",
+		"sourceData":
+		{
+		}
+	}
+}
