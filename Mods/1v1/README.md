@@ -12,7 +12,7 @@
 
 * Press the **Insert** key to cycle through different barrier materials.
 
-<video src="barriertest.mp4" width="600" height="400" controls></video>
+<img src="barriertest.gif" width="700" height="400" controls></img>
 
 > This feature is **client-sided**, so barrier changes will **not** be visible to other players.
 ---
