@@ -1,6 +1,8 @@
 # 27.11 Mods
 Collection of my mods for 27.11 and how to use them because people are gatekeeping for some reason.
 
+> I will link a tutorial if someone makes a good one
+
 
 ## HOW TO MOUNT MODS:
 1. Download the prepatched [exe](https://drive.google.com/file/d/1i9GfLF9GSczymO986tUUYJCuuRKIi0CK/view?usp=drive_link) and place it `Fortnite\FortniteGame\Binaries\Win64`
