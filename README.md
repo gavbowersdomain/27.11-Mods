@@ -13,6 +13,7 @@ Collection of my mods for 27.11 and how to use them because people are gatekeepi
 
 - [Custom Weapons](https://github.com/gavbowersdomain/27.11-Mods/tree/master/Mods/Weapons/)
 - [1v1 Map](https://github.com/gavbowersdomain/27.11-Mods/tree/master/Mods/1v1/)
+- [Low mesh buildings](https://github.com/gavbowersdomain/27.11-Mods/tree/master/Mods/LowMesh/)
 - [Pre S16 Endgame Slowmo](https://github.com/gavbowersdomain/27.11-Mods/tree/master/Mods/Slowmo/27.11)
 
 ## Note
