@@ -1,6 +1,6 @@
 ## Note
 
-> The 1v1 map requires a **modified Erbium fork** to allow players to join in progress.
+> The 1v1 map requires a [**modified Erbium fork**](https://github.com/gavbowersdomain/Erbium/tree/1v1-Map) to allow players to join in progress.
 >
 > Sometimes you cannot damage other players, to fix this just **leave and rejoin the server**.
 
@@ -18,5 +18,12 @@
 ---
 ## Arena Widget
 Change playlist to ```L"/Game/Gav/Levels/GM_1v1/Playlist_Arena_DefaultSolo_Respawn.Playlist_Arena_DefaultSolo_Respawn";```
+
+## Disable Fall Damage
+Add this to DefaultGame.ini
+```
+[AssetHotfix]
++DataTable=/Game/Characters/Player/DataTables/CharacterAttributesPlayer;RowUpdate;PlayerLoadout_AthenaPlayer;FallingDamageTable;None
+```
 ## Erbium Fork
 [https://github.com/gavbowersdomain/Erbium/tree/1v1-Map](https://github.com/gavbowersdomain/Erbium/tree/1v1-Map)
